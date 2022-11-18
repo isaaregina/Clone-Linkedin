@@ -1,0 +1,135 @@
+.Principal {
+    position: relative;
+    width: 332px;
+    margin-top: 30px;
+    margin-left: 930px;
+    margin-right: 4px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    text-align: center;
+    border-radius: 8px;
+    left: 98px;
+}
+
+.Segue {
+    position: relative;
+    background-color: white;
+    border-color: white;
+    color: grey;
+    width: 332px;
+    height: 113px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.Box-Segue{
+    position: relative;
+    top: 16px;
+}
+.Primeiro {
+    position: relative;
+    display: inline-block;
+    color: grey;
+    font-size: 16px;
+    right: 51px;
+
+
+}
+
+.Segundo {
+    position: relative;
+    display: inline-block;
+    position: relative;
+    color: grey;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 15px;
+    right: 34px;
+    top: 10px;
+}
+.Icon-Border1{
+    position: relative;
+    color: grey;
+    top: 3px;
+    left: 45px;
+}
+.Icon-Border{
+    position: relative;
+    color: grey;
+    top: 13px;
+    left: 15px;
+}
+hr{
+    position: relative;
+    top: 5px;
+}
+.Outra {
+    position: relative;
+    width: 332px;
+    height: 563px;
+    border-color: white;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    font-size: 10px;
+
+
+}
+.Box-div{
+    position: relative;
+    top: 10px;
+    margin-top: 15px;
+    position: relative;
+    width: 290px;
+    height: 84px;
+}
+.Proximo1 {
+    position: relative;
+    display:  inline-block;
+    color: black;
+    font-size: 14px;
+    bottom: 25px ;
+    left: 68px;
+    text-align: left;
+}
+.Proximo1Span{
+    position: relative;
+    display: inline-block;
+    font-size: 12px;
+    bottom: 10px ;
+    line-height: 20px;
+    text-align: center;
+    right: 20px;
+}
+
+.Botton1 {
+    position: relative;
+    border: solid 2px;
+    border-radius: 16px;
+    outline: none;
+    font-size: 14px;
+    width: 114px;
+    height: 32px;
+    bottom: 15px;
+    color: dimgray;
+    background-color: #ffffff;
+    border-color: dimgray;
+
+}
+
+.Botton1:hover {
+    color: dimgray;
+    background-color: #EBEBEB;
+    border: solid 3px;
+    cursor: pointer;
+
+}
+
+.Foto1 {
+    position: relative;
+    display: inline-block;
+    right: 189px;
+    height: 50px;
+    border-radius: 50px;
+
+}
