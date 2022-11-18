@@ -2,7 +2,7 @@
 
 Clone do LinkedIn, feito pelos alunos do grupo 3 do Proa Recife:
 
-Login = Isabelle e Francisco
+Login = Isabella e Francisco
 
 Navegador, Widgets e sidebar = Felipe Felix
 
